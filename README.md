@@ -1,8 +1,13 @@
 # 🎮 Playzone Store Dashboard
 
-A modern, dark-themed analytics dashboard designed for a gaming e-commerce store. This project demonstrates a clean, responsive admin panel built with **HTML5**, **Tailwind CSS**, and **Chart.js**.
+A modern, dark-themed analytics dashboard designed for a gaming e-commerce store. This project showcases a clean, responsive admin panel built with **HTML5**, **Tailwind CSS**, and **Chart.js**.
 
 ![Dashboard Preview](https://via.placeholder.com/800x450/1e293b/8b5cf6?text=Playzone+Store+Dashboard+Preview)
+
+## 🚀 Live Demo
+
+Check out the live version of the dashboard here:
+👉 **[Playzone Store Dashboard Live](https://ayushman-tech-art.github.io/playzone-dashboard/)**
 
 ## ✨ Features
 
@@ -11,6 +16,7 @@ A modern, dark-themed analytics dashboard designed for a gaming e-commerce store
 - **📱 Fully Responsive:** Optimized layout that adapts seamlessly from desktop monitors to mobile devices.
 - **⚡ Zero Build Tools:** A single-file solution. No Node.js, Webpack, or complex setup required.
 - **📋 KPI Cards:** Quick overview of Revenue, Orders, Customers, and Product counts.
+- **📉 Data Tables:** Clean tables for recent orders and inventory alerts.
 
 ## 🛠️ Tech Stack
 
@@ -19,25 +25,6 @@ A modern, dark-themed analytics dashboard designed for a gaming e-commerce store
 - **Chart.js:** Lightweight and flexible JavaScript charting library.
 - **Google Fonts:** 'Inter' font for clean typography.
 - **FontAwesome:** For intuitive icons.
-
-## 🚀 Installation & Usage
-
-Since this is a static HTML file, you don't need to install anything.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/playzone-dashboard.git
-    ```
-
-2.  **Open the file:**
-    Simply open `index.html` in your web browser (Chrome, Firefox, Safari).
-
-3.  **Run locally (Optional):**
-    If you want to serve it via a local server (e.g., VS Code Live Server):
-    ```bash
-    # If you have Python installed
-    python -m http.server
-    ```
 
 ## 📂 Project Structure
 
